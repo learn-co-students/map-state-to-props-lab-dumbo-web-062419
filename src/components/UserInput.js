@@ -7,6 +7,7 @@ class UserInput extends Component {
     username: '',
     hometown: ''
   }
+  
 
   handleInputChange = (event) => {
     this.setState({
